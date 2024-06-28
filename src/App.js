@@ -24,7 +24,7 @@ function App() {
       {showHomePage ? (
         <div className="home-page">
           <h1>Welcome to Our Date!</h1>
-          <p>Date Location = Kahi nhi chup se ghr me raho😝.</p>
+          <p>Date Location = Kahi nhi jana, chup se ghr me raho😝.</p>
         </div>
       ) : (
         <>
